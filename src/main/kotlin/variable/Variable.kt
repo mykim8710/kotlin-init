@@ -1,3 +1,5 @@
+package variable
+
 // 탑레벨에 변수 선언가능(함수, 클래스 바깥)
 var x = 5
 

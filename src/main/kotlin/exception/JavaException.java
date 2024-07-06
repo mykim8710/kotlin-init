@@ -1,3 +1,5 @@
+package exception;
+
 public class JavaException {
     public static void main(String[] args) {
 

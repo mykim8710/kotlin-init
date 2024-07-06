@@ -1,3 +1,5 @@
+package flow
+
 fun main() {
     // 기본적으로 자바의 foreach와 유사
     // 범위 연산자 .. 를 사용해 for loop 돌리기

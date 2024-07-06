@@ -1,3 +1,5 @@
+package nullsafety;
+
 import java.util.Optional;
 
 public class JavaNullSafety {

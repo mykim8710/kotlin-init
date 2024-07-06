@@ -1,3 +1,5 @@
+package nullsafety
+
 fun main() {
     /**
      * 자바의 Optional은 값을 래핑하기 때문에 객체 생성에 따른 오버헤드가 발생하고, 컴파일 단계에서 Null 가능성을 검사하지 않음

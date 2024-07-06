@@ -1,4 +1,4 @@
-// 기본적인 함수 선언 스타일
+package function// 기본적인 함수 선언 스타일
 
 // fun 함수명(함수인자) : return type {}
 fun sum(a: Int, b: Int): Int {

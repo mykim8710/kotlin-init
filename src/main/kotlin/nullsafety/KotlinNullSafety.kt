@@ -1,3 +1,5 @@
+package nullsafety
+
 fun main() {
     val nullableStr = getNullStr()
 
